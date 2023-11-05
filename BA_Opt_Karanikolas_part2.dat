@@ -1,0 +1,22 @@
+param : n t := 
+6 3;
+
+param : Capacity :=
+0 25
+1 20
+2 30;
+
+param : Size Price :=
+0 5 120
+1 11 93
+2 22 70
+3 15 85
+4 7 125
+5 20 205;
+
+set Bundle :=
+1 2
+3 4;
+
+set Forbidden :=
+2 4;

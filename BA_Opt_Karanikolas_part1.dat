@@ -1,0 +1,14 @@
+param : n t := 
+5 3;
+
+param : Capacity :=
+0 10
+1 25
+2 35;
+
+param : Size Price :=
+0 24 120
+1 11 500
+2 20 35
+3 15 100
+4 3 125;
